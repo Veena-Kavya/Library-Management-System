@@ -1,0 +1,44 @@
+.bodys{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    padding: 120px;
+    background-image: url('https://us.123rf.com/450wm/daboost/daboost2201/daboost220100607/181285655-row-of-old-books-on-black-shelf-horizontal-background-scene.jpg?ver=6');
+  
+    background-size: cover;
+    height:50vh;
+    color:white;
+   
+    
+}
+.form input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    border-bottom:3px solid rgb(198, 181, 181);
+    height: 50px;
+    width: 300px; 
+    text-decoration: none;
+    line-height: 20px;
+    color:white;
+    font-size: 18px;
+   
+    
+   
+}
+.form button{
+    background-color: gainsboro;
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+   margin-left: 50px;
+}
+.form{
+   
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 60px 60px;
+    height: 300px;
+}
+.form label{
+    padding-right: 30px;
+}

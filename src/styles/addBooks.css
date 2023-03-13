@@ -1,0 +1,55 @@
+.box1{
+    display: flex;
+    justify-content: space-around;
+    background-image:url("https://us.123rf.com/450wm/daboost/daboost2201/daboost220100607/181285655-row-of-old-books-on-black-shelf-horizontal-background-scene.jpg?ver=6") ;
+    background-size: cover;
+    height: 80vh;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* padding-left: 100px; */
+    text-align: center;
+    
+}
+.forms label{
+    padding-right:50px ;
+  justify-content: center;
+}
+.forms{
+    
+   /* background-image:url("https://wallpaperaccess.com/full/521111.jpg") ; */
+   background-color: rgba(0, 0,0,0.8);
+  padding: 40px 60px;
+   /* opacity: 0.6; */
+   color: white; 
+   line-height: 60px;
+}
+
+.title{
+    padding-top: 40px;
+    color: white;
+    font-size: 25px;
+}
+.forms input{
+    height: 35px;
+    width: 300px;
+    border: none;
+     /* text-decoration: underline; */
+     background-color: transparent;
+    border-bottom: 3px solid rgb(139, 131, 131) ;
+    justify-content:flex-start ;
+    outline: none;
+    color: white;
+    font-size: 18px;
+   
+   
+}
+.forms button{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(183, 180, 180);
+  color:black;
+  font-weight: bolder;
+  margin-right: 15px;
+  text-decoration: none;
+  margin-top: 30px;
+}
